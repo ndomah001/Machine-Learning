@@ -58,6 +58,6 @@ The results suggest that ensemble methods like Random Forest, and kernel-based a
 While models like **Neural Networks** and **AdaBoost** showed reasonable accuracy, their performance was slightly lower than Random Forest and SVM, potentially due to the small size of the dataset, which may not have provided enough data for these models to generalize effectively.
 
 ## ✅ Conclusion
-In this study, I explored a range of machine learning models to classify *E. Coli* promoter gene sequences. The Random Forest and SVM (RBF kernel) models demonstrated the highest accuracy and balanced performance across all metrics. These models provide a promising approach for future applications in genomic classification tasks.
+In this project, I explored a range of machine learning models to classify *E. Coli* promoter gene sequences. The Random Forest and SVM (RBF kernel) models demonstrated the highest accuracy and balanced performance across all metrics. These models provide a promising approach for future applications in genomic classification tasks.
 
 Moving forward, additional steps such as hyperparameter tuning, increasing the dataset size, and exploring other advanced models (e.g., deep learning methods) could further improve classification performance.
